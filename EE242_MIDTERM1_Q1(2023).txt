@@ -1,0 +1,19 @@
+mahmut çiftçi	
+
+Asciiname= 109+97+104+109+117+116=652
+
+ASciisurname= 99+105+102+116+99+105=626
+
+ASciitotal= 652+626=1278
+
+timernumber= (1278%14)+1=5
+
+ARRNUMBER= 65536-1=65535	
+
+Duration= (626%1500)*30=18780
+
+LEDPINNUMBER= (1278%4)+12=14
+
+https://github.com/ee241-mahmut-ciftci/EE242MT1/blob/main/question1
+
+
